@@ -1,0 +1,21 @@
+.content{
+    text-align: center;
+    
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content h1{
+    text-transform: capitalize;
+    padding-left: 10px;
+}
+/* .edit_icon{
+    border: 1px solid red;
+    font-size: 50px;
+} */
+.icon{
+    size:150%;
+    border: 1px solid blue;
+    
+}
